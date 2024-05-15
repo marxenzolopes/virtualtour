@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Grand Aventure Text";
+   src: url("fonts/GrandAventureText.woff") format("woff"), url("fonts/GrandAventureText.eot") format("embedded-opentype"), url("fonts/GrandAventureText.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
